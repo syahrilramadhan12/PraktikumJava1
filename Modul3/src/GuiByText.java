@@ -4,7 +4,7 @@ import java.awt.event.ActionListener;
 
 public class GuiByText extends JFrame {
 
-    JLabel Label1 = new JLabel("Coba Infut 1");
+    JLabel Label1 = new JLabel("Coba Input 1");
     JTextField textField1 = new JTextField();
     JButton button1 = new JButton("greet");
 
